@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SD\\EraaSoft\\Tasks\\s10\\SalesDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C47D0E-27E3-4FEA-937C-69A34BCADF76}|SalesDatabase.csproj|f:\\sd\\eraasoft\\tasks\\s10\\salesdatabase\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C47D0E-27E3-4FEA-937C-69A34BCADF76}|SalesDatabase.csproj|solutionrelative:models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C47D0E-27E3-4FEA-937C-69A34BCADF76}|SalesDatabase.csproj|f:\\sd\\eraasoft\\tasks\\s10\\salesdatabase\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C47D0E-27E3-4FEA-937C-69A34BCADF76}|SalesDatabase.csproj|solutionrelative:models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C47D0E-27E3-4FEA-937C-69A34BCADF76}|SalesDatabase.csproj|f:\\sd\\eraasoft\\tasks\\s10\\salesdatabase\\models\\stores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C47D0E-27E3-4FEA-937C-69A34BCADF76}|SalesDatabase.csproj|solutionrelative:models\\stores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C47D0E-27E3-4FEA-937C-69A34BCADF76}|SalesDatabase.csproj|f:\\sd\\eraasoft\\tasks\\s10\\salesdatabase\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C47D0E-27E3-4FEA-937C-69A34BCADF76}|SalesDatabase.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C47D0E-27E3-4FEA-937C-69A34BCADF76}|SalesDatabase.csproj|f:\\sd\\eraasoft\\tasks\\s10\\salesdatabase\\data\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C47D0E-27E3-4FEA-937C-69A34BCADF76}|SalesDatabase.csproj|solutionrelative:data\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C47D0E-27E3-4FEA-937C-69A34BCADF76}|SalesDatabase.csproj|f:\\sd\\eraasoft\\tasks\\s10\\salesdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C47D0E-27E3-4FEA-937C-69A34BCADF76}|SalesDatabase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "F:\\SD\\EraaSoft\\Tasks\\s10\\SalesDatabase\\Models\\Sales.cs",
+              "RelativeDocumentMoniker": "Models\\Sales.cs",
+              "ToolTip": "F:\\SD\\EraaSoft\\Tasks\\s10\\SalesDatabase\\Models\\Sales.cs",
+              "RelativeToolTip": "Models\\Sales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:13:47.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "F:\\SD\\EraaSoft\\Tasks\\s10\\SalesDatabase\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "Models\\Customers.cs",
+              "ToolTip": "F:\\SD\\EraaSoft\\Tasks\\s10\\SalesDatabase\\Models\\Customers.cs",
+              "RelativeToolTip": "Models\\Customers.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:59:18.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stores.cs",
+              "DocumentMoniker": "F:\\SD\\EraaSoft\\Tasks\\s10\\SalesDatabase\\Models\\Stores.cs",
+              "RelativeDocumentMoniker": "Models\\Stores.cs",
+              "ToolTip": "F:\\SD\\EraaSoft\\Tasks\\s10\\SalesDatabase\\Models\\Stores.cs",
+              "RelativeToolTip": "Models\\Stores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:58:03.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\SD\\EraaSoft\\Tasks\\s10\\SalesDatabase\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "F:\\SD\\EraaSoft\\Tasks\\s10\\SalesDatabase\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:54:50.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "F:\\SD\\EraaSoft\\Tasks\\s10\\SalesDatabase\\Data\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "Data\\ConfigureServices.cs",
+              "ToolTip": "F:\\SD\\EraaSoft\\Tasks\\s10\\SalesDatabase\\Data\\ConfigureServices.cs",
+              "RelativeToolTip": "Data\\ConfigureServices.cs",
+              "ViewState": "AQIAAAkAAAD4//////8twB0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:25:12.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SD\\EraaSoft\\Tasks\\s10\\SalesDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\SD\\EraaSoft\\Tasks\\s10\\SalesDatabase\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:16:27.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
